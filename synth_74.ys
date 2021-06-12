@@ -5,7 +5,7 @@ opt
 wreduce
 opt
 extract -map ../74_extract.il
-dfflegaize
+dfflegalize
 opt_merge
 dfflegalize -mince 8
 pmux2shiftx
